@@ -4,6 +4,9 @@
 int main()
 {
     printf("Hello world!\n");
+    
+    printf("Hello from Surdu Bob Alexandru");
+    
     return 0;
 }
 
